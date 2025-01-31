@@ -1,0 +1,12 @@
+Bill of Materials Rex 1
+IKS doo Brcko district BiH
+
+1. 1 pc Ac 220v To 12v Dc Switching Power Supply 20A: https://www.alibaba.com/product-detail/Ac-110v-220v-To-12v-5v_10000010421165.html?spm=a2700.galleryofferlist.p_offer.d_image.d6a813a076zo4p&s=p
+2. 1 pc nema17 stepper motor 42 34mm length 2 https://www.alibaba.com/product-detail/nema17-stepper-motor-42-34mm-length_60793537483.html?spm=a2700.galleryofferlist.topad_classic.d_image.64cf13a0EjVmoS&selectedCarrierCode=SEMI_MANAGED_PREMIUM@@PREMIUM
+3. 1 pc a4988 stepper motor driver 3D printer driver module A4988ET https://www.alibaba.com/product-detail/New-original-a4988-stepper-motor-driver_1600602951592.html?spm=a2700.galleryofferlist.wending_right.i7.661e13a01Q4JhH
+4. 1 pc RAMPS 1.4 3D printer control panel printer Control https://www.alibaba.com/product-detail/RAMPS-1-4-3D-printer-control_1601114523936.html?spm=a2700.galleryofferlist.normal_offer.d_image.42f913a0m36mOY
+5. 1 pc RAMPS 1.4 Reprap LCD12864 Display Module https://www.alibaba.com/product-detail/RAMPS-1-4-Reprap-LCD12864-Display_62005306369.html?
+spm=a2700.galleryofferlist.normal_offer.d_image.42f913a0m36mOY
+6. 1 pc ntc temperature sensor https://www.alibaba.com/product-detail/ntc-Temperature-Sensor-1k-2k-2_1600603877962.html?spm=a2700.galleryofferlist.p_offer.d_image.237f13a08ar9uV&s=p
+7. 1 pc industrial stainless steel 60w 100w 12v 24v 48v dc electric cartridge heating element 3d printer https://www.alibaba.com/product-detail/industrial-stainless-steel-60w-100w-12v_1600221842035.html?spm=a2700.galleryofferlist.normal_offer.d_image.6a1b13a0BgRAW3
+8. 1 pc Robotlinking MEGA R3 Board ATmega 2560 https://www.alibaba.com/product-detail/Robotlinking-MEGA-R3-Board-ATmega-2560_1600975708396.html?spm=a2700.galleryofferlist.p_offer.d_image.71d013a0l3kv2J&s=p

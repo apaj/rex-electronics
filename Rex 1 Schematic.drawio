@@ -1,0 +1,146 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
+  <diagram name="Page-1" id="LUdEtZSOU4vIukMi1H32">
+    <mxGraphModel dx="2333" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-1" target="MKw5a5ikUMkiiowu8ihn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-21" value="G" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MKw5a5ikUMkiiowu8ihn-17">
+          <mxGeometry x="-0.1345" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-1" target="MKw5a5ikUMkiiowu8ihn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-23" value="12 V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MKw5a5ikUMkiiowu8ihn-18">
+          <mxGeometry x="0.0552" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-1" target="MKw5a5ikUMkiiowu8ihn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-20" value="12 V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MKw5a5ikUMkiiowu8ihn-19">
+          <mxGeometry x="-0.2034" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-1" target="MKw5a5ikUMkiiowu8ihn-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="412" y="840" />
+              <mxPoint x="412" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-24" value="G" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MKw5a5ikUMkiiowu8ihn-22">
+          <mxGeometry x="-0.031" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-1" value="&lt;div&gt;AC/DC convertor&lt;/div&gt;&lt;div&gt;исправљач&lt;/div&gt;Ac 220v To 12v Dc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-4" target="MKw5a5ikUMkiiowu8ihn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-14" value="G" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MKw5a5ikUMkiiowu8ihn-10">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-4" target="MKw5a5ikUMkiiowu8ihn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-15" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MKw5a5ikUMkiiowu8ihn-11">
+          <mxGeometry x="-0.16" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-4" target="MKw5a5ikUMkiiowu8ihn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-13" value="L" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MKw5a5ikUMkiiowu8ihn-12">
+          <mxGeometry x="-0.18" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-4" value="&lt;i&gt;Power outlet&lt;/i&gt;&lt;div&gt;Утичница, градска мрежа&lt;/div&gt;&lt;div&gt;&amp;nbsp;220 V, 50 Hz&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=1;startArrow=classic;shape=flexArrow;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-16" target="MKw5a5ikUMkiiowu8ihn-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-16" target="MKw5a5ikUMkiiowu8ihn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-16" target="MKw5a5ikUMkiiowu8ihn-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-16" target="MKw5a5ikUMkiiowu8ihn-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-16" target="MKw5a5ikUMkiiowu8ihn-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-16" value="RAMPS 1.4&lt;div&gt;shield/штит&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKw5a5ikUMkiiowu8ihn-25" target="MKw5a5ikUMkiiowu8ihn-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-25" value="stepper motor driver&lt;div&gt;драјвер степер мотора&lt;br&gt;a4988&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-27" value="stepper motor&lt;div&gt;мотор&lt;/div&gt;&lt;div&gt;NEMA 17&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-29" value="&amp;nbsp;MEGA R3 Board&lt;br&gt;&lt;div&gt;motherboard&lt;/div&gt;&lt;div&gt;матична плоча&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-37" value="heater&lt;div&gt;гријач&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-38" value="temperature sensor&lt;div&gt;сензор температуре&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-41" value="LCD12864&amp;nbsp;&lt;div&gt;LCD / дисплеј&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-43" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;ПАЖЊА&lt;/b&gt;: приликом израде ове шеме, користе се елементи са приступом градској мрежи под напоном што је опасно по живот.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="52" y="380" width="175" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-44" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;У складу са лиценцом (Apache 2.0) шема је слободно доступна за кориштење, било приватно или комерцијално, али без икакве одговорности ИКС доо Брчко дистрикт БиХ за било какву штету или повреде настале као посљедица употребе ове шеме или неких њених дијелова. За детаље прочитајте LICENSE, датотеку доступну на:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; text-align: left;&quot;&gt;&lt;b&gt;https://github.com/apaj/rex-electronics&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="288" y="380" width="249" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-46" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;Као и хардвер овдје објављен, и кориштени софтвер, настао модификацијом постојећих слободних рјешења, је такође слободно доступан у складу са лиценцама аутора оригиналних програмских кодова. За детаље, погледајте:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;https://github.com/apaj/Marlin&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;https://github.com/apaj/u8glib&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="587" y="380" width="185" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-47" value="&lt;i&gt;ReX &lt;/i&gt;је производ ИКС доо Брчко дистрикт БиХ. Актуелна верзија машине је 1 и овај документ представља електричну шему те верзије машине &lt;i&gt;ReX&lt;/i&gt;.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Прије почетка рада на машини &lt;i&gt;ReX &lt;/i&gt;обавезно:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; • прочитајте:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ◦ Опште услове кориштења&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ◦ Мјере заштите на раду&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ◦ Техничку спецификацију &lt;i&gt;ReX&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ◦ Техничку спецификацију рециклираног филамента&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; • и погледајте детаљно видео упутство:&amp;nbsp;&lt;a href=&quot;https://youtu.be/O_JHuXgB_H8?si=zy8yXXugOLQrp-Dz&quot;&gt;https://youtu.be/O_JHuXgB_H8?si=zy8yXXugOLQrp-Dz&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Такође, препоручујемо да прочитате и:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; • Услове важења гаранције&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; • Лиценцу&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=6;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="52" y="120" width="725" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-83" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ИКС Брчко дистрикт БиХ&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Сафвета бега Башагића 1/А&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;76100 Брчко, БиХ&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="52" y="40" width="235" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-84" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Јануар 2025&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Верзија 1&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="546" y="40" width="235" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-89" value="Очистимо све, направимо било шта!" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="288" y="1030" width="248" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-92" value="НИКАДА не остављајте ReX без надзора!" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="27" y="1030" width="273" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-94" value="&lt;i&gt;Страна 1 од 1&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="688.5" y="1110" width="111.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MKw5a5ikUMkiiowu8ihn-95" value="УВИЈЕК користите заштитну опрему!" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;align=center;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="527" y="1030" width="273" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
